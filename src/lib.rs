@@ -9,7 +9,7 @@
 //!
 //! ```toml
 //! [dependencies]
-//! human_format = "0.2"
+//! human_format = "1.0"
 //! ```
 //!
 //! Add the crate reference at your crate root
